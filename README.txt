@@ -1,0 +1,1 @@
+git clone: clona un progetto sul computer “git clone url_progetto”
